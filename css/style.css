@@ -39,7 +39,7 @@ body{
 }
 /*----------- banner section ----------*/
 #banner{
-    background-image: linear-gradient(to right, #a517ba,#5fa782);
+    background-image: linear-gradient(to right, #a517ba,#62a2eb);
     color: #fff;
     padding-top: 5%;
 }
@@ -164,7 +164,7 @@ body{
 }
 /* ----------footer section-------------- */
 #footer{
-    background-image: linear-gradient(to right, #a517ba,#5fa782);
+    background-image: linear-gradient(to right, #c032f8,#62a2eb);
     color: #fff;
 }
 .footer-img{
